@@ -31,4 +31,4 @@
 Em... Time to do coding la, bye :wave:
 
 ## Screenshot
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/csci3250-2019/student-1155110387/blob/master/Screenshot.JPG "Logo Title Text 1")
